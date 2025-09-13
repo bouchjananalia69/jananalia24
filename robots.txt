@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bouchazizof2023-creator.github.io/jananalia24github.io/sitemap.xml
